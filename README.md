@@ -1,4 +1,4 @@
-# Music Web App
+# Quiz App
 
 This is a simple quiz app built using HTML, CSS, and JavaScript. Users can test their knowledge by answering multiple-choice questions on various topics.
 
